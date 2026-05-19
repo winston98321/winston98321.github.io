@@ -17,10 +17,10 @@ The presentation summarized my master's research on prompt-guided vertebral segm
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; margin: 24px 0;">
   <img src="/images/APSIPA/IMG_5699.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
-  <img src="/images/APSIPA/IMG_5700.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
+  <img src="/images/APSIPA/55a92e6c-d136-4fde-9f4f-b9e408a46853.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
   <img src="/images/APSIPA/IMG_5701.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
   <img src="/images/APSIPA/IMG_5706.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
-  <img src="/images/APSIPA/55a92e6c-d136-4fde-9f4f-b9e408a46853.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
+  <img src="/images/APSIPA/IMG_5700.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
 </div>
 
 ---
