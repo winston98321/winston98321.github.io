@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "APSIPA ASC 2025 — Student 3MT Competition"
-permalink: /apsipa-3mt/
+permalink: /activities/apsipa-3mt/
 author_profile: true
 ---
 

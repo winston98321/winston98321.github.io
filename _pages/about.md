@@ -14,6 +14,30 @@ My master's research focused on developing a prompt-guided segmentation framewor
 
 Feel free to reach out if you are interested in collaborating or have any questions: [winston98321@gmail.com](mailto:winston98321@gmail.com)
 
+## Recent Activities
+
+**[Oct 2025]** Student 3MT Competition Finalist — **APSIPA ASC 2025**, Singapore [[Photos & Video]](/activities/apsipa-3mt/)
+
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin: 12px 0 24px 0;">
+  <a href="/activities/apsipa-3mt/">
+    <img src="/images/APSIPA/55a92e6c-d136-4fde-9f4f-b9e408a46853.JPEG" alt="APSIPA 3MT 2025" style="width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:5px;">
+  </a>
+  <a href="/activities/apsipa-3mt/">
+    <img src="/images/APSIPA/IMG_5699.JPEG" alt="APSIPA 3MT 2025" style="width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:5px;">
+  </a>
+  <a href="/activities/apsipa-3mt/">
+    <img src="/images/APSIPA/IMG_5700.JPEG" alt="APSIPA 3MT 2025" style="width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:5px;">
+  </a>
+  <a href="/activities/apsipa-3mt/">
+    <img src="/images/APSIPA/IMG_5701.JPEG" alt="APSIPA 3MT 2025" style="width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:5px;">
+  </a>
+  <a href="/activities/apsipa-3mt/">
+    <img src="/images/APSIPA/IMG_5706.JPEG" alt="APSIPA 3MT 2025" style="width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:5px;">
+  </a>
+</div>
+
+---
+
 ## Research Interests
 
 I am broadly interested in the intersection of deep learning and clinical applications, with a focus on:
