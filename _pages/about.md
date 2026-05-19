@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Profile"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the Artificial Intelligence discipline at RMIT University (School of Computing Technologies). I am affiliated with the RMIT [AI Innovation lab](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/computer-science-and-information-technology/ai-innovation-lab), and the [Intelligent Automation Research Group](https://www.rmit.edu.au/about/schools-colleges/engineering/research/research-groups/intelligent-automation-research-group). Before joining RMIT, I was a postdoctoral research fellow at IBM-Research Melbourne. I obtained my PhD from Swinburne University of Technology, supervised by [Prof. Alireza Bab-Hadiashar](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/b/bab-hadiashar-alireza) and [Prof. Zhenwei Cao](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=zcao).
+I am a PhD student in Computer Science at [Miami University](https://miamioh.edu/) (starting Fall 2025), previously completing my Master's degree in Artificial Intelligence Technology at [National Taipei University of Technology (NTUT)](https://www.ntut.edu.tw/), where I was a member of the Hyperspectral Imaging and Biomedical Research Lab under the supervision of Dr. Hsiao-Chi Li and Dr. Hsin-Han Chiang.
 
-I am always looking for highly-motivated students with strong mathematical background and proficient coding skills. If you are interested in working with me, please send me an email about your interests and background (attaching your CV, transcripts, and any previous research papers). Thanks!
+My master's research focused on developing a prompt-guided segmentation framework for osteoporotic vertebral compression fractures (OVCFs) in spinal radiographs, achieving state-of-the-art performance even for challenging cases involving vertebroplasty implants.
 
-## Research interests
+Feel free to reach out if you are interested in collaborating or have any questions: [winston98321@gmail.com](mailto:winston98321@gmail.com)
 
-I am interested in building and providing theoretical understanding of *robust computer vision* systems that can be utilized in autonomous navigation, robotics, advanced manufacturing, and medicine. More specifically, 
+## Research Interests
 
-- **Computer vision**: Geometric vision (e.g., 3D reconstruction, Depth estimation, Motion segmentation), Robust vision (RANSAC and its varients).
-- **Machine learning**: Handling data-set shift (e.g, Domain adaptation, Generalisation, Syn2Real), Learning with corrupted or limited data (e.g. Weakly-Supervised Learning).
-- **Medical image analysis**: Image synthesis, computer aided diagnosis.
+I am broadly interested in the intersection of deep learning and clinical applications, with a focus on:
+
+- **Medical Imaging**: Segmentation, detection, and analysis of clinical images (CT, X-ray)
+- **Trustworthy AI**: Robustness, reliability, and interpretability of AI systems in high-stakes domains
+- **Foundation Models**: Prompt-guided and generalizable models for biomedical applications
+- **Multimodal & Multitask Learning**: Integrating multiple data modalities and tasks for richer understanding
 
 
 

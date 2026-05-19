@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Ruwan Tennakoon"
+title                    : "Pokai Su"
 title_separator          : "-"
-name                     : &name "Ruwan Tennakoon"
-description              : &description "Associate Professor at RMIT University"
-url                      : https://RuwanT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Pokai Su"
+description              : &description "PhD Student in Computer Science at Miami University"
+url                      : https://winston98321.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RuwanT.github.io"
+repository               : "winston98321.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Ruwan Tennakoon"
+  name             : "Pokai Su"
   avatar           : "profile.png"
-  bio              : "Associate Professor in Artificial Intelligence at RMIT University"
-  location         : "Melbourne Australia"
+  bio              : "PhD Student in Computer Science at Miami University. Research interests: Medical Imaging, Trustworthy AI, Foundation Models."
+  location         : "Taipei, Taiwan / Oxford, Ohio, USA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.au/citations?user=tJ2el8oAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    :
+  email            : "winston98321@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/RuwanT"
+  github           : "winston98321"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/ruwan-tennakoon-923a3437"
-  orcid            : "https://orcid.org/0000-0001-8909-5728"
+  linkedin         : "www.linkedin.com/in/pokai-su-0381a0175"
+  orcid            : "https://orcid.org/0009-0004-6970-6471"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
