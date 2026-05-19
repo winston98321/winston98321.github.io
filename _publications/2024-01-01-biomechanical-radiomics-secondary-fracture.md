@@ -11,4 +11,3 @@ citation: 'Yu-Hsuan Yu, Po-Kai Su, Pei-Rong Jiang, Meng-Lei Su, Jiann-Her Lin, H
 
 This study performs a comparative analysis of structural biomechanical and textural radiomics features for predicting secondary osteoporotic vertebral compression fractures (OVCFs), aiming to identify the most informative feature sets for clinical decision support.
 
-Recommended citation: Yu-Hsuan Yu, Po-Kai Su, Pei-Rong Jiang, Meng-Lei Su, Jiann-Her Lin, Hsiao-Chi Li. (2024). "Comparative Analysis of Structural Biomechanical and Textural Radiomics Features in Predicting Secondary Osteoporotic Vertebral Compression Fracture." <i>Asia Spine 2024</i>.
