@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+## 2026
+Pei-Rong  Jiang, Kai-Xuan  Xu,  **Po-Kai  Su**, Meng-Lei  Su, Jiann-her  Lin, HSIAO-CHI  LI. "Semi-Supervised Vertebral and Intervertebral Disc Segmentation in Spinal MRI via Cross-Source Mean Teacher Learning." *The International Conference on System Science and Engineering*, 2026
 
 ## 2025
 
@@ -13,7 +15,6 @@ author_profile: true
 [[DOI]](https://doi.org/10.1109/apsipaasc65261.2025.11249394)
 
 ## 2024
-Pei-Rong  Jiang, Kai-Xuan  Xu,  **Po-Kai  Su**, Meng-Lei  Su, Jiann-her  Lin, HSIAO-CHI  LI. "Semi-Supervised Vertebral and Intervertebral Disc Segmentation in Spinal MRI via Cross-Source Mean Teacher Learning." *The International Conference on System Science and Engineering 2026*
 
 Yu-Hsuan Yu, **Po-Kai Su**, Pei-Rong Jiang, Meng-Lei Su, Jiann-Her Lin, Hsiao-Chi Li. "Comparative Analysis of Structural Biomechanical and Textural Radiomics Features in Predicting Secondary Osteoporotic Vertebral Compression Fracture." *Asia Spine 2024*.
 

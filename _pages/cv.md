@@ -64,7 +64,7 @@ Advisors: Dr. Hsiao-Chi Li & Dr. Hsin-Han Chiang
 Po-Kai Su, Pei-Rong Jiang, Kai-Xuan Xu, Meng-Lei Su, Jiann-Her Lin, Hsin-Han Chiang, Hsiao-Chi Li (2025). "Prompt-Based Vertebral Segmentation Using a Generative AI Approach in OVCF Spinal Radiographs." *Asia Pacific Signal and Information Processing Association (APSIPA) Annual Summit and Conference.* [[DOI]](https://doi.org/10.1109/apsipaasc65261.2025.11249394)
 
 ### Contributing Author
-Pei-Rong  Jiang, Kai-Xuan  Xu,  Po-Kai  Su, Meng-Lei  Su, Jiann-her  Lin, HSIAO-CHI  LI (2026) " Semi-Supervised Vertebral and Intervertebral Disc Segmentation in Spinal MRI via Cross-Source Mean Teacher Learning." *ICSSE2026.*
+Pei-Rong  Jiang, Kai-Xuan  Xu,  Po-Kai  Su, Meng-Lei  Su, Jiann-her  Lin, HSIAO-CHI  LI (2026) " Semi-Supervised Vertebral and Intervertebral Disc Segmentation in Spinal MRI via Cross-Source Mean Teacher Learning." *ICSSE 2026.*
 
 Yu-Hsuan Yu, Po-Kai Su, et al. (2024). "Comparative Analysis of Structural Biomechanical and Textural Radiomics Features in Predicting Secondary Osteoporotic Vertebral Compression Fracture." *Asia Spine 2024.*
 
