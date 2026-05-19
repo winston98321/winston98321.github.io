@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I was honored to be selected as a **Finalist** in the Student Three-Minute Thesis (3MT) Competition at the **17th Asia Pacific Signal and Information Processing Association (APSIPA) Annual Summit and Conference**, held in Singapore, 2025.
+I was honored to be selected as a **Finalist** representing Taiwan in the Student Three-Minute Thesis (3MT) Competition at the **17th Asia Pacific Signal and Information Processing Association (APSIPA) Annual Summit and Conference**, held in Singapore, 2025.
 
 The presentation summarized my master's research on prompt-guided vertebral segmentation for osteoporotic vertebral compression fractures (OVCFs) — condensed into three minutes for a general audience.
 
@@ -15,12 +15,17 @@ The presentation summarized my master's research on prompt-guided vertebral segm
 
 ## Photos
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; margin: 24px 0;">
-  <img src="/images/APSIPA/IMG_5699.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
-  <img src="/images/APSIPA/55a92e6c-d136-4fde-9f4f-b9e408a46853.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
-  <img src="/images/APSIPA/IMG_5701.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
-  <img src="/images/APSIPA/IMG_5706.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
-  <img src="/images/APSIPA/IMG_5700.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover;">
+<!-- 直式照片：2 欄 -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0 12px 0;">
+  <img src="/images/APSIPA/55a92e6c-d136-4fde-9f4f-b9e408a46853.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover; aspect-ratio:3/4;">
+  <img src="/images/APSIPA/IMG_5699.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover; aspect-ratio:3/4;">
+</div>
+
+<!-- 橫式照片：3 欄 -->
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 0 0 24px 0;">
+  <img src="/images/APSIPA/IMG_5700.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover; aspect-ratio:4/3;">
+  <img src="/images/APSIPA/IMG_5701.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover; aspect-ratio:4/3;">
+  <img src="/images/APSIPA/IMG_5706.JPEG" alt="APSIPA 3MT 2025" style="width:100%; border-radius:6px; object-fit:cover; aspect-ratio:4/3;">
 </div>
 
 ---
