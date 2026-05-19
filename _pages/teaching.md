@@ -3,20 +3,13 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %} 
+{% include base_path %}
 
+## Teaching Assistant
 
-Masters courses
-======
-* Computational Machine Learning (2020-2021)
-* Deep Learning (2020-2022)
+**National Taipei University of Technology**, Taipei, Taiwan (Feb 2023 – Jun 2025)
 
-Bachelor courses
-======
-* Machine Learning (2020-2021)
-* Advanced Programming Techniques (2019-2022)
-
+- **Data Structure** — Assisted with weekly lab sessions, grading assignments, and student consultations.
+- **Linear Algebra** — Supported lectures and provided tutoring for undergraduate students.

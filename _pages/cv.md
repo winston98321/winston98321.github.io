@@ -16,14 +16,14 @@ redirect_from:
 ## Education
 
 **Miami University**, Oxford, Ohio, USA  
-PhD, Computer Science *(Starting Fall 2025)*
+PhD, Computer Science *(Starting Fall 2026)*
 
 **National Taipei University of Technology**, Taipei, Taiwan  
-MS, Artificial Intelligence Technology — GPA 3.88/4.0  
+MS, Artificial Intelligence Technology — GPA 3.88/4.0  (Feb 2023 - Aug 2025)
 *Thesis: A Prompt-Guided Foundation Segmentation Model Towards Accurate Vertebral Segmentation in OVCFs*
 
 **National Yunlin University of Science and Technology**, Yunlin, Taiwan  
-BS, Computer Science and Information Engineering
+BS, Computer Science and Information Engineering (Aug 2018 - Feb 2023)
 
 ---
 
