@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  activities:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -218,6 +221,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _activities
+  - scope:
+      path: ""
+      type: activities
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
